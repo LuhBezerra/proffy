@@ -23,14 +23,6 @@ const styles = StyleSheet.create({
     marginVertical: 40
   },
 
-  xx: {
-
-  },
-
-  xx: {
-
-  },
-
 });
 
 export default styles;
